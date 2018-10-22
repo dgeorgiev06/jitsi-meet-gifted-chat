@@ -25,5 +25,10 @@
 	</array>
 	<key>NSPrincipalClass</key>
 	<string></string>
+	<key>JitsiMeetFonts</key>
+	<array>
+		<string>FontAwesome.ttf</string>
+		<string>jitsi.ttf</string>
+	</array>
 </dict>
 </plist>

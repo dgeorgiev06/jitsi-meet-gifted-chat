@@ -32,3 +32,14 @@ export const SEND_MESSAGE = Symbol('SEND_MESSAGE');
  * }
  */
 export const TOGGLE_CHAT = Symbol('TOGGLE_CHAT');
+
+/**
+ * The type of the action which signals to clear messages in chat on 
+ * connecting to conference.
+ *
+ * {
+ *     type: CLEAR_CHAT
+ * }
+ */
+export const CLEAR_CHAT = Symbol('CLEAR_CHAT');
+
