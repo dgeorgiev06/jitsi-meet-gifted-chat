@@ -3,7 +3,7 @@
 import React, { Component } from 'react';
 
 // eslint-disable-next-line react-native/split-platform-components
-import { BackAndroid, BackHandler, StatusBar, View, Text, KeyboardAvoidingView } from 'react-native';
+import { BackAndroid, BackHandler, StatusBar, View, Text } from 'react-native';
 import { connect as reactReduxConnect } from 'react-redux';
 
 import { appNavigate } from '../../app';
